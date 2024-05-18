@@ -4,7 +4,7 @@
 
 This is a prework study guide for coding bootcamp
 
-- This was created to practise some basics and to have a place where I can refer to the cheatsheets I'm most likely to use starting out.
+This was created to practice some basics and to have a place where I can refer to the cheatsheets I'm most likely to use starting out.
 
 
 ## Installation
